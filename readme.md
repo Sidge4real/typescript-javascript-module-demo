@@ -1,4 +1,3 @@
-[![License](https://img.shields.io/badge/license-no-red.svg)]()
 # TypeScript and JavaScript Module Example
 
 This is a simple example project that demonstrates how to create a module with TypeScript and use it in both TypeScript and JavaScript files.
@@ -39,5 +38,3 @@ ts-node command runs typescript files, same with node, you can run "ts-node test
 - install recommended node or if using previous version install that one here: https://nodejs.org/en
 - use tsc and typescript globally on your computer by using command in bash or powershell and use **npm install -g typescript**
 - install ts-node globally on your computer: **npm install -g ts-node**, also be found here: https://typestrong.org/ts-node/docs/installation/
-## license
-There's no copyright or license or other needed for a simple project, created in 15 minutes (with research)
